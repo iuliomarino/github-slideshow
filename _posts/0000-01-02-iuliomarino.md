@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Megacatapazzi è my niu spirit for today
 Use the left arrow to go back!
